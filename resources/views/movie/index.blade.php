@@ -4,7 +4,7 @@
 
     <div class="panel panel-heading">
         @include('partials.messages')
-        Listado de Pelicula
+        Listado de Peliculas Final
         <p class="navbar-text navbar-right">
 
             <button type="button" id="nuevo" name="nuevo" class="btn btn-warning navbar-btn">Nuevo</button>
